@@ -1,0 +1,13 @@
+Changelog:
+
+- Kernel Upstream Latest Linux Stable 4.4.216
+- bring back Simple LMK
+- bring back Simple Thermal
+- add NetHunter Patch (Wi Ar Onanymouse, XD)
+- ARM: dts: sdm660_e7s/e7t/wayne: Add cpu set for adsp glink
+- fixed sRGB on lcm tianma-td4310
+- RCU update
+- RANDOM update
+- add nintendo switch controller driver
+- boeffla_wl_blocker: add more block list
+- or see my git.
