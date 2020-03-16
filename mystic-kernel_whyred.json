@@ -1,0 +1,14 @@
+{
+  "kernel": {
+    "name": "Mystic Kernel Whyred",
+    "version": "r9.7",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/R9.7/New-Cam/Mystic-Whyred_r9.7.zip",
+    "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
+    "date": "2020-03-12",
+    "sha1": "5b0f914b1c4925f9de3f2b44bcec5c5fcb50df9a"
+  },
+  "support": {
+    "link": "https://t.me/okta_10",
+    "donation": "https://paypal.me/oktapraamtono"
+  }
+}
