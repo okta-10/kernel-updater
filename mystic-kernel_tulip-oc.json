@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Tulip - OverClock",
-    "version": "r9.7",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/R9.7/Mystic-Tulip_r9.7-OC.zip",
+    "version": "r9.8",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/R9.8/Mystic-Tulip_r9.8-OC.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
-    "date": "2020-03-12",
-    "sha1": "1cf21d6f0439e6ea6eae3106de10a5853c221fb6"
+    "date": "2020-03-21",
+    "sha1": "d8b02ef1aa25eafae9db7dad7b7d643b1314a4e3"
   },
   "support": {
     "link": "https://t.me/okta_10",
