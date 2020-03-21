@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Whyred - OverClock",
-    "version": "r9.7",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/R9.7/New-Cam/Mystic-Whyred_r9.7-OC.zip",
+    "version": "r9.8",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/R9.8/Mystic-Whyred_r9.8-OC.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
-    "date": "2020-03-12",
-    "sha1": "a42874fd66a375ecb5837daa01a4c85bb1fb34b3"
+    "date": "2020-03-21",
+    "sha1": "f1442c1462212d9edde29a850e911d644d9f00cb"
   },
   "support": {
     "link": "https://t.me/okta_10",
