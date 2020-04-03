@@ -1,23 +1,17 @@
 Changelog:
 
-- Kernel Upstream Latest Linux Stable 4.4.217
-- qcacld-3.0: merge tag LA.UM.7.2.r1-08500-sdm660.0 also LA.UM.7.2.r3-00700-sdm660.0
-- qca-wifi-host-cmn: merga tag LA.UM.7.2.r1-08500-sdm660.0
-- dts: sdm660: Enable freq-energy-model
-- ARM: dts: simple-thermal: move into a separate file
-- ARM: dts: sdm660: tas2557: enable 24bit data
-- anxiety-iosched: more patch
-- dt2w: fixed for nvt_touch_ds2 driver (wayne)
-- dtc: Bundle AOSP's fork of dtc
-- f2fs: implement rapid GC for Android (and more)
-- mm: Default to 128KB readahead
-- jump_label: update
-- locking/qspinlock: update
-- locking/lockdeep: update
-- locking/mutex: update
-- futex: update
-- fucek: update (only joke lol)
-- and more locking update
-- BACKPORT: cpufreq: Call cpufreq_disable_fast_switch() in sugov_exit()
-- cpufreq: schedutil: Don't restrict kthread to related_cpus unnecessarily
+- Kernel Upstream Latest Linux Stable 4.4.218
+- treewide: remove some xiaomeme changes
+- arm64: Tune GCC for sdm660's CPU
+- simple-lmk: Increase minfree to 50
+- enable cc optimize for performance
+- defconfig: enable pelt_halftime_12
+- defconfig: enable config stune & cpusets assist
+- defconfig: Enable dead code elimination
+- disable sched_walt
+- disable cpu input boost
+- iommu: msm: Rewrite to improve clarity and performance
+- Revert "printk: Add sys kernel interface to configure linux printk logging"
+- Revert "msm: thermal: simple: Introduce simple MSM thermal solution"
+- Toolchain: use GCC Buildroot (9xx)
 - or see my git for more changelog.
