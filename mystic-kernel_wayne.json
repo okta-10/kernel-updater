@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Wayne",
-    "version": "r9.8",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Wayne/R9.8/Mystic-Wayne_r9.8.zip",
+    "version": "r9.9",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Wayne/R9.9/Mystic-Wayne_r9.9.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
-    "date": "2020-03-21",
-    "sha1": "a9aef860c9bb1decfe59c4025db93ae42386aeb5"
+    "date": "2020-04-03",
+    "sha1": "6c7d4ab02d8340ac0c1692677b107213a82599bb"
   },
   "support": {
     "link": "https://t.me/okta_10",
