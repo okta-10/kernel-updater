@@ -1,0 +1,10 @@
+Changelog:
+
+- Kernel Upstream 4.9.207...4.9.218
+- arm64: dts: sdm670: drop avb
+- fs: remove sdfat and using exfat
+- Add and enable WireGuard
+- Add and enable Boeffla WL Blocker
+- remove + from local version
+- Toolchain: Using Latest Clang Android (6364210 based on r377782d) clang version 10.0.6
+- or see my git for more changelog.
