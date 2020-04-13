@@ -3,7 +3,7 @@
     "name": "Mystic Kernel Tulip",
     "version": "r9.9",
     "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/R9.9/Mystic-Tulip_r9.9.zip",
-    "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
+    "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
     "date": "2020-04-03",
     "sha1": "ca6552de744edf30835f7659f1df5c66c07c53e2"
   },

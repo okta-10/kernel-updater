@@ -3,7 +3,7 @@
     "name": "Mystic Kernel Tulip - OverClock",
     "version": "r9.9",
     "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/R9.9/Mystic-Tulip_r9.9-OC.zip",
-    "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog.txt",
+    "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
     "date": "2020-04-03",
     "sha1": "76e9a2cc9a34a94b91e29bcd31448b8bff974839"
   },
