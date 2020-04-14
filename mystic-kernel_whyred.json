@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Whyred",
-    "version": "r9.9",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/R9.9/Mystic-Whyred_r9.9.zip",
+    "version": "X",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/X/Mystic-Whyred_X.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
-    "date": "2020-04-03",
-    "sha1": "f9363304936826c7195c1b85af344cc1d435eeb0"
+    "date": "2020-04-14",
+    "sha1": "7fc51f4656b29e2314b487867a72afc1b09ee873"
   },
   "support": {
     "link": "https://t.me/okta_10",
