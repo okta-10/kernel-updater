@@ -1,17 +1,13 @@
 Changelog:
 
-- Kernel Upstream Latest Linux Stable 4.4.218
-- treewide: remove some xiaomeme changes
-- arm64: Tune GCC for sdm660's CPU
-- simple-lmk: Increase minfree to 50
-- enable cc optimize for performance
-- defconfig: enable pelt_halftime_12
-- defconfig: enable config stune & cpusets assist
-- defconfig: Enable dead code elimination
-- disable sched_walt
-- disable cpu input boost
-- iommu: msm: Rewrite to improve clarity and performance
-- Revert "printk: Add sys kernel interface to configure linux printk logging"
-- Revert "msm: thermal: simple: Introduce simple MSM thermal solution"
-- Toolchain: use GCC Buildroot (9xx)
+- Kernel Upstream Latest Linux Stable 4.4.219
+- arm64: DT: sdm660-pm: Fix LPM cluster/CPU nodes for k4.9
+- arm: dts: sdm660-pm: set LPM parameters from SDM845
+- dts: sdm660/e7s/e7t/wayne: adjust arm-cpu-mon nodes
+- arm: dts: qcom: sdm660/e7s/e7t/wayne adjust the memlat and mincpubw nodes
+- defconfig: enable BLK CGROUP
+- defconfig: switch to LMK
+- mm: Increase vmstat interval
+- msm-poweroff: Do sys_sync() on restart & poweroff
+- qpnp-power-on: Do fsync during power reseting
 - or see my git for more changelog.
