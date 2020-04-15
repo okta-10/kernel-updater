@@ -1,13 +1,14 @@
 Changelog:
 
-- Kernel Upstream Latest Linux Stable 4.4.219
-- arm64: DT: sdm660-pm: Fix LPM cluster/CPU nodes for k4.9
-- arm: dts: sdm660-pm: set LPM parameters from SDM845
-- dts: sdm660/e7s/e7t/wayne: adjust arm-cpu-mon nodes
-- arm: dts: qcom: sdm660/e7s/e7t/wayne adjust the memlat and mincpubw nodes
-- defconfig: enable BLK CGROUP
-- defconfig: switch to LMK
-- mm: Increase vmstat interval
-- msm-poweroff: Do sys_sync() on restart & poweroff
-- qpnp-power-on: Do fsync during power reseting
+- Rebase, Keep OEM commit with remove useless stuff from Xiaomeme
+- Source Cleanup
+- qcacld-3.0: Merge tag 'LA.UM.7.2.r1-08700-sdm660.0'
+- qca-wifi-host-cmn: Merge tag 'LA.UM.7.2.r1-08700-sdm660.0'
+- iommu: Introduce Interface for IOMMU TLB Flushing
+- msm: kgsl: Add support to make use of iommu_unmap_fast
+- ARM: dts: sdm660-gpu: enable unmap fast support
+- msm_thermal: disable hotplug in core contol
+- gpu: Play with throttling a bit
+- fs: add a simplified file blocker
+- WireGuard update to 1.0.20200413
 - or see my git for more changelog.
