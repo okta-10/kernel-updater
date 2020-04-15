@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Tulip",
-    "version": "X",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/X/Mystic-Tulip_X.zip",
+    "version": "X1",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/X1/Mystic-Tulip_x1.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
-    "date": "2020-04-14",
-    "sha1": "800560e91d2571c85c1661fe4b982cc4352c9133"
+    "date": "2020-04-15",
+    "sha1": "e30bd9d0b12916103894e13fa3f5190c4d972444"
   },
   "support": {
     "link": "https://t.me/okta_10",
