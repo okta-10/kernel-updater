@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Whyred - OverClock",
-    "version": "X",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/X/Mystic-Whyred_X-OC.zip",
+    "version": "X1",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Whyred/X1/Mystic-Whyred_x1-OC.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
-    "date": "2020-04-14",
-    "sha1": "9c52bc3315516ea471a685dc70b4e41914862920"
+    "date": "2020-04-15",
+    "sha1": "f7313a8d39cd0f1d5e23bb6f78a4db03a89af031"
   },
   "support": {
     "link": "https://t.me/okta_10",
