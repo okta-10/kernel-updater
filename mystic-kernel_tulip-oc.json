@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Mystic Kernel Tulip - OverClock",
-    "version": "X",
-    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/X/Mystic-Tulip_X-OC.zip",
+    "version": "X1",
+    "link": "https://sourceforge.net/projects/mystic-kernel/files/Tulip/X1/Mystic-Tulip_x1-OC.zip",
     "changelog_url": "https://raw.githubusercontent.com/okta-10/kernel-updater/master/changelog-sdm660.txt",
-    "date": "2020-04-14",
-    "sha1": "b622e9eb7074c0d38cf6ff6c6503b21659c61d4f"
+    "date": "2020-04-15",
+    "sha1": "6f9b675c0903f2194630e72a1be3e43ce15cdc8d"
   },
   "support": {
     "link": "https://t.me/okta_10",
